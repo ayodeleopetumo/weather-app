@@ -1,0 +1,26 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A Node JS Weather App",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayodeleopetumo/weather-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayodeleopetumo/weather-app/issues"
+  },
+  "homepage": "https://github.com/ayodeleopetumo/weather-app#readme",
+  "devDependencies": {
+    "@types/node": "^12.7.2",
+    "eslint": "^6.2.1",
+    "typescript": "^3.5.3"
+  }
+}
